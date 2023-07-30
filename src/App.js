@@ -124,7 +124,7 @@ function App() {
             </div>
           )}
           <div className="img-container">
-            <img src={image} className="image" />
+            <img src={image} className="image" alt="img" />
           </div>
         </section>
       </div>
